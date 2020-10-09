@@ -296,6 +296,8 @@ For first-time users there are many good Jackson usage tutorials, including:
 * [JournalDev Jackson Tutorial](https://www.journaldev.com/2324/jackson-json-java-parser-api-example-tutorial)
 * [LogicBig.com Jackson Tutorial](https://www.logicbig.com/tutorials/misc/jackson.html)
 * [StudyTrails Jackson Introduction](http://www.studytrails.com/java/json/java-jackson-introduction/)
+* [Java67 Javakcson CSV Tutorial](https://www.java67.com/2019/05/how-to-read-csv-file-in-java-using-jackson-library.html)
+* [Javarevisited Jackson JSON Tutorial](https://javarevisited.blogspot.com/search/label/Java%20JSON%20tutorial)
 
 ### Note on reporting Bugs
 
@@ -314,3 +316,4 @@ here are links to some of existing independent comparisons:
 * [Be a Lazy but a Productive Android Developer, Part 3: JSON Parsing Library](http://java.dzone.com/articles/be-lazy-productive-android) (April 2014)
 * ["Can anyone recommend a good Java JSON library"](https://www.linkedin.com/groups/Can-anyone-recommend-good-Java-50472.S.226644043) (Linked-In group) (March 2013)
 * ["Which JSON library to use on Android?"](http://thetarah.com/2012/09/21/which-json-library-should-i-use-in-my-android-and-java-projects/) (September 2012) 
+* ["5 Best JSON libraries for Java developers?"](https://javarevisited.blogspot.com/2016/09/top-5-json-library-in-java-JEE.html) (September 2016) 
